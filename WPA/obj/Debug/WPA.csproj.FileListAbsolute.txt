@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\WPA\WPA\bin\Debug\WPA.exe.config
+C:\Users\Asus\source\repos\WPA\WPA\bin\Debug\WPA.exe
+C:\Users\Asus\source\repos\WPA\WPA\bin\Debug\WPA.pdb
+C:\Users\Asus\source\repos\WPA\WPA\obj\Debug\WPA.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\WPA\WPA\obj\Debug\WPA.Properties.Resources.resources
+C:\Users\Asus\source\repos\WPA\WPA\obj\Debug\WPA.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\WPA\WPA\obj\Debug\WPA.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\WPA\WPA\obj\Debug\WPA.exe
+C:\Users\Asus\source\repos\WPA\WPA\obj\Debug\WPA.pdb
+C:\Users\Asus\source\repos\WPA\WPA\obj\Debug\WPA.Form1.resources
